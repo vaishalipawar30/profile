@@ -143,6 +143,7 @@ html ,body{
 }
 
 #footer p{
+    font-size: 15px;
     padding: 0 20px;
 }
 #footer .yt{
